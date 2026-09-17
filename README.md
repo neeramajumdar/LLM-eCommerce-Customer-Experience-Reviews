@@ -81,9 +81,8 @@ Wraps the full analysis into a validated contract:
 
 ```text
 olist-llm-sentiment-analysis/
-├── design.md              # Input/Output model design documentation
-├── main.py                # LangChain pipeline & Pydantic models execution script
-├── requirements.txt       # Python dependencies
+├── design.md              # Input/Output model design documentation written in plain english
+├── LLM_Olist.py                # LangChain pipeline & Pydantic models execution script
 └── README.md              # Project documentation
 🚀 Quickstart & How to Run
 1. Prerequisites
